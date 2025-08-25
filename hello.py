@@ -1,0 +1,1 @@
+print("pijush gay")
